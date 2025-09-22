@@ -26,10 +26,6 @@ O desenvolvimento do projeto utilizou as seguintes técnicas e tecnologias:
 
 `Inputs com Signals`: Comunicação eficiente entre componentes utilizando a API de Signals.
 
-## 📁 Link do Figma
-
-Você pode [acessar o figma do projeto aqui](https://www.figma.com/community/file/1459296356400633021).
-
 ## 🛠️ Abrir e rodar o projeto
 
 Você vai precisar do NodeJS, versão 18 ou maior.
